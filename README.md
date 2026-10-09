@@ -1,6 +1,8 @@
 
-[![DOI](https://zenodo.org/badge/1411760597.svg)](https://doi.org/10.5281/zenodo.23262804)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23262804.svg)](https://doi.org/10.5281/zenodo.23262804)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-NeuroTumourAI-black?logo=github)](https://github.com/cherukuMurali-k/NeuroTumourAI)
+
 
 # NeuroTumourAI
 ### An Adaptive Hybrid Deep Learning Framework with Explainability for Precise MRI-Based Brain Tumour Classification
