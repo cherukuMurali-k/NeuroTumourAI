@@ -16,30 +16,6 @@ The framework integrates tumour-aware segmentation, explainable AI, probability 
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Research Objectives](#research-objectives)
-- [Proposed Architecture](#proposed-architecture)
-- [Technology Stack](#technology-stack)
-- [Datasets](#datasets)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Dataset Preparation](#dataset-preparation)
-- [Execution Workflow](#execution-workflow)
-- [Training Configuration](#training-configuration)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Explainable AI](#explainable-ai)
-- [Reproducibility and Validation](#reproducibility-and-validation)
-- [Research Applications](#research-applications)
-- [Limitations](#limitations)
-- [Data Availability](#data-availability)
-- [Citation](#citation)
-- [License](#license)
-
----
-
 ## Overview
 
 Brain gliomas are brain tumours that require careful analysis of medical imaging data. Conventional image-based classification approaches may not fully exploit complementary information from tumour appearance, shape, texture, and spatial structure.
