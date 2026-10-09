@@ -1,0 +1,2 @@
+subject_id,label,t1,t1ce,t2,flair,seg
+CASE_001,HGG,/absolute/path/t1.nii.gz,/absolute/path/t1ce.nii.gz,/absolute/path/t2.nii.gz,/absolute/path/flair.nii.gz,/absolute/path/seg.nii.gz
