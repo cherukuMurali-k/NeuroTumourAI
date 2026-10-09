@@ -584,9 +584,7 @@ If you use this repository in academic work, cite the associated publication whe
 
 ## License
 
-No software license is specified in this repository documentation yet.
-
-Add an appropriate `LICENSE` file after deciding the terms under which the software may be used, modified, and redistributed. Until then, do not assume that public repository access automatically grants permission to reuse the code.
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the terms and conditions of the MIT License.
 
 ---
 
