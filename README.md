@@ -1,18 +1,17 @@
 
-# NeuroTumourAI
-### An Adaptive Hybrid Deep Learning Framework with Explainability for Precise MRI-Based Brain Tumour Classification
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
 ![Medical AI](https://img.shields.io/badge/Domain-Medical%20Imaging-purple)
 ![Explainable AI](https://img.shields.io/badge/AI-Explainable-success)
 ![Research](https://img.shields.io/badge/Project-Research-orange)
 
+# NeuroTumourAI
+### An Adaptive Hybrid Deep Learning Framework with Explainability for Precise MRI-Based Brain Tumour Classification
+
 **NeuroTumourAI** is a research-oriented hybrid deep learning framework for MRI-based classification of brain gliomas into Low-Grade Glioma (LGG) and High-Grade Glioma (HGG). It combines three-dimensional convolutional neural networks, radiomic descriptors, morphometric characteristics, and graph-based spatial representations using gated cross-modal attention and Mixture-of-Experts fusion.
 
 The framework integrates tumour-aware segmentation, explainable AI, probability calibration, and subject-level evaluation to support interpretable and reproducible medical imaging research.
 
-> **Research purpose:** This project is intended for research and experimentation. It is not independently validated or approved for clinical diagnosis or treatment decisions.
 
 ---
 
