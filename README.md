@@ -1,9 +1,6 @@
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![![DOI](https://zenodo.org/badge/1411760597.svg)](https://doi.org/10.5281/zenodo.23262804)
 ![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
-![Medical AI](https://img.shields.io/badge/Domain-Medical%20Imaging-purple)
-![Explainable AI](https://img.shields.io/badge/AI-Explainable-success)
-![Research](https://img.shields.io/badge/Project-Research-orange)
 
 # NeuroTumourAI
 ### An Adaptive Hybrid Deep Learning Framework with Explainability for Precise MRI-Based Brain Tumour Classification
