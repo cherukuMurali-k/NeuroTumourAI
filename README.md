@@ -1,6 +1,11 @@
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23262804.svg)](https://doi.org/10.5281/zenodo.23262804)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23262805-blue)](https://doi.org/10.5281/zenodo.23262805)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-NeuroTumourAI-black?logo=github)](https://github.com/cherukuMurali-k/NeuroTumourAI)
+
 
 
 
