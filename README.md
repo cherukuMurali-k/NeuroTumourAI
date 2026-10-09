@@ -259,10 +259,8 @@ Dataset files, trained models, intermediate features, and generated outputs shou
 
 ### 1. Clone the Repository
 
-Replace `YOUR_USERNAME` with the GitHub account that owns the repository.
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/NeuroTumourAI.git
+git clone https://github.com/cherukuMurali-k/NeuroTumourAI
 cd NeuroTumourAI
 ```
 
