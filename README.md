@@ -552,8 +552,6 @@ An explicit software license should be added before publicly redistributing the 
 
 **Core architecture:** HybridTumourNet
 
-If you use this repository in academic work, cite the associated publication when its bibliographic details become available. Do not invent publication details or a DOI.
-
 ---
 
 ## License
